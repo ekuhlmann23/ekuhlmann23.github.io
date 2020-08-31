@@ -4,6 +4,7 @@
     align-items: center;
 }
 
-html {
-    font-size: 1.5rem;
+.fancy-text {
+
+    font-family: 'Nunito', sans-serif;
 }
