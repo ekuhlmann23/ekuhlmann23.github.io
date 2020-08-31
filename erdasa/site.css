@@ -5,6 +5,10 @@
 }
 
 .fancy-text {
-
     font-family: 'Nunito', sans-serif;
+}
+
+.navbar-item-text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.125em;
 }
