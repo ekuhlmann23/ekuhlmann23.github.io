@@ -12,3 +12,9 @@ html body {
     font-family: 'Nunito', sans-serif;
     font-size: 1.125em;
 }
+
+@media screen and (min-width: 768px) {
+    .is-paddingless-tablet {
+        padding: 0% !important;
+    }
+}
