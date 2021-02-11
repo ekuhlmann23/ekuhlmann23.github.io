@@ -5,7 +5,7 @@ self.assetsManifest = {
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "hash": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -93,7 +93,7 @@ self.assetsManifest = {
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-AQfZ6sKmq4EzOxN3pymKJ1nlGQaneN66\/2mcbArnIJ8=",
+      "hash": "sha256-xA8TVeiJoyvtrru507IQ1IJzcybW3sSuUVSfeAkKNy4=",
       "url": "_framework\/dotnet.5.0.2.js"
     },
     {
